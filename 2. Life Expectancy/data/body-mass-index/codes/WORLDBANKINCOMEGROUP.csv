@@ -1,0 +1,8 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+WORLDBANKINCOMEGROUP,WB_HI,High-income,,,
+WORLDBANKINCOMEGROUP,WB_LI,Low-income,,,
+WORLDBANKINCOMEGROUP,WB_LIMI,Low- and middle-income,,,
+WORLDBANKINCOMEGROUP,WB_LMI,Lower-middle-income,,,
+WORLDBANKINCOMEGROUP,WB_MI,Middle-income,,,
+WORLDBANKINCOMEGROUP,WB_UMI,Upper-middle-income,,,
+WORLDBANKINCOMEGROUP,WB_WORLD_INCOME,Global,,,

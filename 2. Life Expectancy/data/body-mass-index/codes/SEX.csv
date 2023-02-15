@@ -1,0 +1,4 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+SEX,BTSX,Both sexes,,,
+SEX,FMLE,Female,,,
+SEX,MLE,Male,,,
